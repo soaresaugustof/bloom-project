@@ -10,7 +10,4 @@ export const GlobalStyle = createGlobalStyle`
         background: var(--background);
     }
 
-    h1 {
-        color: #fff;
-    }
 `;
